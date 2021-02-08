@@ -43,3 +43,6 @@ Jak się masz kochanie, jak się masz.
 
 [Listen on Youtube](https://youtu.be/f1tLAyHYnr4)
 
+[video](media/Happy End - Jak się masz Kochanie.mp4)
+
+[My translation](kakdela.md)
